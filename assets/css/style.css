@@ -1,0 +1,14 @@
+:root {
+  --bs-primary: #103f6e; /* Replace with your desired color */
+  --bs-primary-rgb: 16, 63, 110; /* Replace with your desired color */
+}
+
+.form-control {
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0%;
+}
+
+.error {
+    outline: 2px solid red;
+}
